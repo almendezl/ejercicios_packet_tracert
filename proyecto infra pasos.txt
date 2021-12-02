@@ -1,0 +1,11 @@
+1. nube
+2. on a stick
+3. link agregation
+4. vtp
+5.eigrp
+6.interfaces de vlan en los capa 3
+7. hsrp
+8.dhcp con el que se crea virtualizado
+9. ssh y seguridad
+10.tunel
+11. acl
